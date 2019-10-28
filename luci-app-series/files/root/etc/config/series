@@ -1,0 +1,6 @@
+
+config SN
+	option mac '0'
+	option ID '0'
+	option key '0'
+
