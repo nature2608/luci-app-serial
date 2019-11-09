@@ -1,6 +1,5 @@
-
-config SN
-	option mac '0'
-	option ID '0'
-	option key '0'
+config SN 'SN'
+	option key ''
+	option ID ''
+	option mac ''
 
